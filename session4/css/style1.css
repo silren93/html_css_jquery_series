@@ -64,3 +64,29 @@
         margin: 150px auto;
         transform: scale(1.5) skew(75deg, 30deg) translate(-100px,100px);
     }
+.hinh6
+    {
+        width: 100px;
+        height: 100px;
+        background-color: cornflowerblue;
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+    }
+.khung2
+    {
+        width: 1200px;
+        height: 800px;
+        margin: 0 auto;
+        background-color: #ccc;
+        position: relative;
+    }
+.hinh7
+    {
+        width: 100px;
+        height: 100px;
+        background-color: chartreuse;
+        position: absolute;
+        bottom: 20px;
+        right: 20px;
+    }
