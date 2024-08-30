@@ -1,0 +1,39 @@
+/* .container
+    {
+        width: 1200px;
+        height: 600px;
+        display: flex;
+        justify-content: flex-start;
+        background-color: #000;
+        margin: 0 auto;
+        align-items: baseline;
+    }
+.item
+    {
+        width: 100px;
+        /* height: 100px; 
+        background-color: yellowgreen;
+        margin: 10px;
+    }
+.i1
+    {
+        order: 2;
+    }
+.i2
+    {
+        order: 3;
+    }
+.i3
+    {
+        order: 1;
+    }
+.i4
+    {
+        order: 4;
+    } */
+.bg
+    {
+        height: 100px;
+        background-color: red;
+        margin-bottom: 16px;
+    }
