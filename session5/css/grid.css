@@ -89,6 +89,7 @@ ul, ol
     {
         display: flex;
         flex-wrap: wrap;
+        align-items: stretch;
     }
 .clear
     {
